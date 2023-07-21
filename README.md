@@ -1,2 +1,2 @@
 # DNS-Exclude
-this repository holds the DNS pi-hol exclusion files on git
+this repository holds the DNS pi-hole exclusion files on git
